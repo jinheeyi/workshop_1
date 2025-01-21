@@ -25,6 +25,7 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
 - My first attempt at coding, where I used vibrant light colors on a black screen, didn’t turn out as expected — the shapes unexpectedly merged together and displayed as one.
 ![Screenshot 2025-01-16 174514](https://github.com/user-attachments/assets/9a2ff89a-a41a-4634-a80b-0baf037729a1)
 - I decided to take another look and add some new codes to see what else I could create and fix. It felt like a good way to build on what I’d already explored while pushing things a little further. Revisiting the earlier work also helped me see it and giving new ideas to try out. 
+
 **colour blending**
 ```ruby
   fill(random(255), random(255), random(255), 150); 
