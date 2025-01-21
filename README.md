@@ -41,7 +41,7 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
     let x = random(width);
     let y = random(height);
 ```
-**adding a bit of fun, **
+**adding a bit of fun**
 ```ruby
  if (mouseIsPressed) {
     fill(random(255), random(255), random(255), 200);
