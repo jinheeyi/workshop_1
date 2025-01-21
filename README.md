@@ -41,13 +41,14 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
     let x = random(width);
     let y = random(height);
 ```
-**adding a bit of fun**
+**adding a bit of fun, **
 ```ruby
  if (mouseIsPressed) {
-    fill(random(255), random(255), random(255), 200); // Bright random color
-    ellipse(mouseX + random(-10, 10), mouseY + random(-10, 10), 10, 10); // Small particle
+    fill(random(255), random(255), random(255), 200);
+    ellipse(mouseX + random(-10, 10), mouseY + random(-10, 10), 10, 10);
   }
 }
 ```
+![Screenshot 2025-01-21 142418](https://github.com/user-attachments/assets/032fa165-d140-4f30-b2d5-e56dd7b52b75)
 
 ## Conclusion(+ further improvement)
