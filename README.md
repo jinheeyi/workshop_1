@@ -53,5 +53,5 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
 ![Screenshot 2025-01-21 142418](https://github.com/user-attachments/assets/032fa165-d140-4f30-b2d5-e56dd7b52b75)
 
 ## Conclusion(+ further improvement)
-- Furthermore, processing on this workshop, coding a background with popping colourful shapes was quite an achievement and a fun, rewarding challenge. It helped me improve both creativity and technical coding skills.
-- For furture improvement, I want to refine animations by cooporating smoother and try new patterns to make the design, personalized and immersive, too. And additionally, learn more codes and focus and think what codes are right and wrong too. 
+- Furthermore, processing on this workshop, coding a background with popping colourful shapes was quite an achievement and a enjoyable challenge. It helped me improve both creativity and technical coding skills.
+- For furture improvement, I want to refine animations by cooporating smoother and try new patterns to make the design, personalized and immersive, too. And additionally, learn more codes and focus, think and check the correction of the codes and review it again if mistaken. 
