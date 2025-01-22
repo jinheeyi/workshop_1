@@ -7,7 +7,7 @@ Website link: https://jinheeyi.github.io/workshop_1/
 ![Screenshot 2025-01-16 164842](https://github.com/user-attachments/assets/21a01a77-4ee1-44fd-a4fa-cc907f1ffecf)
 ![Screenshot 2025-01-16 164857](https://github.com/user-attachments/assets/b8923388-b9ce-4994-b9b9-c158b87c5ba5)
 https://cratecode.com/info/creative-coding-tools-and-platforms
-(these are the links to the research on the instructions on assembling abstract shapes
+(these are the links to the research on the instructions on assembling abstract shapes)
 - https://www.youtube.com/watch?v=9gXN1UYlOFU
 - https://northcoders.com/company/blog/esoteric-programming-languages-program-code-in-the-form-of-abstract-art/ an exemplar on the construct abstract shape.
 
