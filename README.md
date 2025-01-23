@@ -25,7 +25,9 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
 - Using these codes, I began to track and document the process as a personal coding exploration. I also revisited workshops 1 and 2, focusing on multiplying shapes and exploring additional concepts.
 - My first attempt at coding, where I used vibrant light colors on a black screen, didn’t turn out as expected — the shapes unexpectedly merged together and displayed as one.
 ![Screenshot 2025-01-16 174514](https://github.com/user-attachments/assets/9a2ff89a-a41a-4634-a80b-0baf037729a1)
-- I decided to take another look and add some new codes to see what else I could create and fix. It felt like a good way to build on what I’d already explored while pushing things a little further. Revisiting the earlier work also helped me see it and giving new ideas to try out. 
+- I decided to take another look and add some new codes to see what else I could create and fix, and asked chatgpt a question on "How to put popping colours on the blank background" and it looked like this. 
+
+(paste code)
 
 **colour blending**
 ```ruby
@@ -53,5 +55,5 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
 ![Screenshot 2025-01-21 142418](https://github.com/user-attachments/assets/032fa165-d140-4f30-b2d5-e56dd7b52b75)
 
 ## Conclusion(+ further improvement)
-- Furthermore, processing on this workshop, coding a background with popping colourful shapes was quite an achievement and a enjoyable challenge. It helped me improve both creativity and technical coding skills.
+- Furthermore, processing on this workshop, coding a background with popping colourful shapes was quite an achievement and a enjoyable challenge. It helped me improve both creativity and technical coding skills.It felt like a good way to build on what I’d already explored while pushing things a little further. Revisiting the earlier work also helped me see it and learn from it too. 
 - For furture improvement, I want to refine animations by cooporating smoother and try new patterns to make the design, personalized and immersive, too. And additionally, learn more codes and focus, think and check the correction of the codes and review it again if mistaken. 
