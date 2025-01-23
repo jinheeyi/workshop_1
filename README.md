@@ -26,9 +26,6 @@ https://cratecode.com/info/creative-coding-tools-and-platforms
 - My first attempt at coding, where I used vibrant light colors on a black screen, didn’t turn out as expected — the shapes unexpectedly merged together and displayed as one.
 ![Screenshot 2025-01-16 174514](https://github.com/user-attachments/assets/9a2ff89a-a41a-4634-a80b-0baf037729a1)
 - I decided to take another look and add some new codes to see what else I could create and fix, and asked chatgpt a question on "How to put popping colours on the blank background" and it looked like this. 
-
-(paste code)
-
 **colour blending**
 ```ruby
   fill(random(255), random(255), random(255), 150); 
